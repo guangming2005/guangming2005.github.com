@@ -7,4 +7,4 @@ sharing: true
 footer: true
 ---
 
-{% img left photos/iphone.png %}
+{% img left ../photos/iphone.png 250 150%}
