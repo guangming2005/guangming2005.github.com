@@ -1,11 +1,13 @@
 ---
 layout: page
-title: "products"
+title: ""
 date: 2013-04-14 22:30
 comments: true
 sharing: true
 footer: true
 ---
+
+{% img ../photos/banner1.png %}
 
 * 苹果 [iphone](/iphone).
 * HTC [htc](/htc).
