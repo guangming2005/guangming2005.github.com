@@ -1,0 +1,14 @@
+---
+layout: post
+title: "平板电脑"
+date: 2013-04-28 23:36
+comments: true
+categories: 
+---
+
+平板电脑大优惠！iPad Mini, 三星7寸平板，全新四核Novo，Google Nexus 7！！
+
+{% img left ../photos/ipadmini.png %}
+{% img left ../photos/galaxy7.png %}
+{% img left ../photos/novo7.png %}
+{% img left ../photos/nexus7.png %}
